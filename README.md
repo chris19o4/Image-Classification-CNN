@@ -1,8 +1,12 @@
 # Project 2: Image Classification
+[//]: # (Image References)
 
-## This is the second project of Udacity's Deep Learning Nanodegree
+[image1]: ./cifar-10.jpg
 
-In this project the goal is to classify images from the *CIFAR-10 dataset*. The dataset contains 10 different image categories like airplanes, dogs and cats.
+
+In this project the goal is to classify images from the *CIFAR-10 dataset*. The dataset contains 10 different image categories like airplanes, dogs and cats:
+
+![alt text][image1]
 
 In order to train the dataset on a convolutional neural network, it needs to be preprocessed. 
 The images have to be normalized and the labels one-hot encoded.
