@@ -4,7 +4,9 @@
 [image1]: ./Images/cifar-10.jpeg
 
 
-In this project the goal is to classify images from the *CIFAR-10 dataset*. The dataset contains 10 different image categories like airplanes, dogs and cats:
+In this project the goal is to classify images from the *CIFAR-10 dataset*. 
+The CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6000 images per class.
+These are the 10 classes in the dataset, as well as 10 random images from each class:
 
 ![alt text][image1]
 
