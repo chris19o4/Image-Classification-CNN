@@ -1,7 +1,7 @@
 # Project 2: Image Classification
 [//]: # (Image References)
 
-[image1]: ./cifar-10.jpg
+[image1]: cifar-10.jpg
 
 
 In this project the goal is to classify images from the *CIFAR-10 dataset*. The dataset contains 10 different image categories like airplanes, dogs and cats:
