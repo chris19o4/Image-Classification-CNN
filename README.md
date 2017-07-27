@@ -1,4 +1,4 @@
-# Project 2: Image Classification
+# Image Classification
 [//]: # (Image References)
 
 [image1]: ./Images/cifar-10.jpeg
